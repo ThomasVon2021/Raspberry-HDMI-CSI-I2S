@@ -6,3 +6,7 @@ Raspberry pi is a very popular device in the open source world.In many applicati
 ![](/images/C780A.jpg)
 ## version
 C780 module is divided into C780A and C780B versions according to the number of CSI-2 channels.C780A supports 2 CSI-2 channels, up to 1080P50fps HDMI input.And C780B supports 4 CSI-2 channels, up to 1080P60fps HDMI input.
+## Test video
+C780A test:https://www.youtube.com/watch?v=ecqyINoiHNQ
+
+C780B test:https://www.youtube.com/watch?v=nc-hwPT2Uak&t=15s
