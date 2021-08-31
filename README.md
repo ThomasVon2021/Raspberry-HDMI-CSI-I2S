@@ -17,7 +17,8 @@ The documentation of this project.
 * Size: 30 x 65 mm (unbroken PCB size); 30 x 45 mm (PCB size after breaking)
 * Install:6 x M2.5
 * Power supply:3.3V
-* Weight: 9g
+* Weight: 9g  
+
 **C780B**
 * HDMI input: supports up to 1080650fps on raspberry pi
 * HDMI to CSI-2 bridge chip:Toshiba TC358743XBG
