@@ -6,6 +6,8 @@ Raspberry pi is a very popular device in the open source world.In many applicati
 ![](/images/C780A.jpg)
 ## Version
 C780 module is divided into C780A and C780B versions according to the number of CSI-2 channels.C780A supports 2 CSI-2 channels, up to 1080P50fps HDMI input.And C780B supports 4 CSI-2 channels, up to 1080P60fps HDMI input.
+## <a href="https://github.com/ThomasVon2021/Raspberry-HDMI-CSI-I2C/wiki" target="_blank">Wiki</a>
+The documentation of this project.
 ## Hardware parameters
 **C780A**
 * HDMI input: supports up to 1080P50fps on raspberry pi(Limited by the number of CSI-2 channels)
