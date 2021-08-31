@@ -18,6 +18,15 @@ The documentation of this project.
 * Install:6 x M2.5
 * Power supply:3.3V
 * Weight: 9g
+**C780B**
+* HDMI input: supports up to 1080650fps on raspberry pi
+* HDMI to CSI-2 bridge chip:Toshiba TC358743XBG
+* 4 CSI-2 channels & clock
+* CSI-2 interface: 22 pin FPC seat, spacing 0.5 mm
+* Size: 30 x 65 mm (unbroken PCB size); 30 x 45 mm (PCB size after breaking)
+* Install:6 x M2.5
+* Power supply:3.3V
+* Weight: 9g
 ## Test video
 C780A test:https://www.youtube.com/watch?v=ecqyINoiHNQ
 
