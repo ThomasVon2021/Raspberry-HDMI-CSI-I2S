@@ -5,3 +5,4 @@ Raspberry pi is a very popular device in the open source world.In many applicati
 ## C780A picture
 ![](/images/C780A.jpg)
 ## version
+C780 module is divided into C780A and C780B versions according to the number of CSI-2 channels.
