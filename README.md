@@ -3,7 +3,7 @@
 ## Introduction
 Raspberry pi is a very popular device in the open source world.In many application scenarios, we need to collect the video and audio of HDMI input device.At present, there are some modules on the market that can convert HDMI signal to CSI signal.But they can't convert video and audio at the same time, and they are very expensive, and they are not easy to install on raspberry pi.Therefore, I design a module that can convert HDMI signals into video and audio signals at the same time, and it is not expensive. I named it **C780**.
 ## C780A picture
-![](/images/C780A.jpg)
+![](/images/C780A.jpg)![](/images/C780B.jpg)
 ## Version
 C780 module is divided into C780A and C780B versions according to the number of CSI-2 channels.C780A supports 2 CSI-2 channels, up to 1080P50fps HDMI input.And C780B supports 4 CSI-2 channels, up to 1080P60fps HDMI input.
 ## <a href="https://github.com/ThomasVon2021/Raspberry-HDMI-CSI-I2C/wiki" target="_blank">Wiki</a>
