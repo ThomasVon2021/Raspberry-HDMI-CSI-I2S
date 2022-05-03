@@ -10,7 +10,7 @@ C780 module is divided into C780A and C780B versions according to the number of 
 The documentation of this project.The hardware parameters of C780 and how to useC780 to use video and audio in raspberry pi are introduced in detail.
 ## Hardware parameters
 **C780A**
-* HDMI input: supports up to 1080P50fps on raspberry pi(Limited by the number of CSI-2 channels)
+* HDMI input: supports up to 1080P50Hz on raspberry pi(Limited by the number of CSI-2 channels)
 * HDMI to CSI-2 bridge chip:Toshiba TC358743XBG
 * 2 CSI-2 channels & clock
 * CSI-2 interface: 15 pin FPC seat, spacing 1.0 mm
@@ -20,7 +20,7 @@ The documentation of this project.The hardware parameters of C780 and how to use
 * Weight: 9g  
 
 **C780B**
-* HDMI input: supports up to 1080650fps on raspberry pi
+* HDMI input: supports up to 1080P60Hz on raspberry pi
 * HDMI to CSI-2 bridge chip:Toshiba TC358743XBG
 * 4 CSI-2 channels & clock
 * CSI-2 interface: 22 pin FPC seat, spacing 0.5 mm
